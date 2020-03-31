@@ -13,4 +13,4 @@ tags:
 
 テスト
 
-![](./od/cat.jpg)
+![](./od/od.png)
