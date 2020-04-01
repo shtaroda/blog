@@ -1,5 +1,5 @@
 {
-  "name": "jpazureid-blog",
+  "name": "jpspsupport-blog",
   "version": "0.1.2",
   "private": true,
   "hexo": {
@@ -17,10 +17,10 @@
     "hexo-generator-category": "^0.1.3",
     "hexo-generator-feed": "^2.0",
     "hexo-generator-index": "^0.2.1",
-    "hexo-generator-root-tag": "github:jpazureid/hexo-generator-root-tag",
+    "hexo-generator-root-tag": "github:jpspsupport/hexo-generator-root-tag",
     "hexo-generator-sitemap": "^1.2.0",
     "hexo-generator-tag": "^0.2.0",
-    "hexo-hepler-github-issues": "github:jpazureid/hexo-helper-github-issues",
+    "hexo-hepler-github-issues": "github:jpspsupport/hexo-helper-github-issues",
     "hexo-renderer-ejs": "^0.3.1",
     "hexo-renderer-marked": "^1.0.1",
     "hexo-renderer-stylus": "^0.3.3",
