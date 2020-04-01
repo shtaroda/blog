@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Japan SharePoint Support Blog</title>
+  
+  <subtitle>日本マイクロソフトの SharePoint に関するサポート情報のブログです。</subtitle>
+  <link href="/blog/atom.xml" rel="self"/>
+  
+  <link href="https://jpspsupport.github.io/blog/"/>
+  <updated>2020-04-01T06:13:02.849Z</updated>
+  <id>https://jpspsupport.github.io/blog/</id>
+  
+  <author>
+    <name>SharePoint Support Japan</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SharePoint Online について</title>
+    <link href="https://jpspsupport.github.io/blog/sharepoint-online/spo/"/>
+    <id>https://jpspsupport.github.io/blog/sharepoint-online/spo/</id>
+    <published>2020-03-31T15:00:00.000Z</published>
+    <updated>2020-04-01T06:13:02.849Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>テスト記事です</p></blockquote><p>こんにちは。テスト投稿です。  </p><p>テスト</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;テスト記事です&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;こんにちは。テスト投稿です。  &lt;/p&gt;
+&lt;p&gt;テスト&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="SharePoint Online" scheme="https://jpspsupport.github.io/blog/tags/SharePoint-Online/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>OneDrive for Business について</title>
+    <link href="https://jpspsupport.github.io/blog/onedrive-for-business/od/"/>
+    <id>https://jpspsupport.github.io/blog/onedrive-for-business/od/</id>
+    <published>2020-03-30T15:00:00.000Z</published>
+    <updated>2020-04-01T06:13:02.846Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>テスト記事です</p></blockquote><p>こんにちは。テスト投稿です。  </p><p>テスト</p><img src="/blog/onedrive-for-business/od/od.png">]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;テスト記事です&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;こんにちは。テスト投稿です。  &lt;/p&gt;
+&lt;p&gt;テスト&lt;/p&gt;
+&lt;img src=&quot;/blog/onedrive-for-business/od/od.png&quot;&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="OneDrive for Business" scheme="https://jpspsupport.github.io/blog/tags/OneDrive-for-Business/"/>
+    
+  </entry>
+  
+</feed>
