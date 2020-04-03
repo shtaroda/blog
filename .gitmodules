@@ -1,3 +1,6 @@
 [submodule "themes/jpazure"]
 	path = themes/jpazure
 	url = git@github.com:jpazureid/hexo-theme-jpazure.git
+[submodule "hexo-theme-jpspsupport"]
+	path = themes/hexo-theme-jpspsupport
+	url = https://github.com/jpspsupport/hexo-theme-jpspsupport.git
