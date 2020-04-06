@@ -5,7 +5,9 @@
   "hexo": {
     "version": "3.8.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "mkdirp": "^1.0.3"
+  },
   "devDependencies": {
     "del": "^4.1.1",
     "gulp": "^4.0.2",
